@@ -1,6 +1,9 @@
 import os, time
 import ruamel_yaml
 
+# Author : Emile Duquennoy
+# Date : 05/07/2019
+
 yaml = ruamel_yaml.YAML()
 
 def getConfig():

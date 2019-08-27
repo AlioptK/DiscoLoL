@@ -1,0 +1,19 @@
+#Enter your region's name bellow (BR, EUNE, EUW, JP, LAN, LAS, NA, OCE, RU, TR):
+Region: EUW
+
+#Please do not change the line bellow.
+isCurrentlyOffline: false
+
+#Servers IP:
+#The servers' IP can be found in your League Of Legends folder inside the system.yaml file.
+Servers:
+  BR: br.chat.si.riotgames.com
+  EUNE: eun1.chat.si.riotgames.com
+  EUW: euw1.chat.si.riotgames.com
+  JP: jp1.chat.si.riotgames.com
+  LAN: la1.chat.si.riotgames.com
+  LAS: la2.chat.si.riotgames.com
+  NA: na2.chat.si.riotgames.com
+  OCE: oc1.chat.si.riotgames.com
+  RU: ru1.chat.si.riotgames.com
+  TR: tr1.chat.si.riotgames.com
